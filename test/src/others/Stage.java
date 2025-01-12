@@ -1,3 +1,5 @@
+package others;
+
 public abstract class Stage {
     public static void add(int a, int b){
         int c = a + b;
