@@ -1,3 +1,5 @@
+package others;
+
 public class A {
     public A() {
         System.out.println("The default constructor of A is invoked");

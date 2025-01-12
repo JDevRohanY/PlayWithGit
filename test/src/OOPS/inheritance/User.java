@@ -1,4 +1,4 @@
-package inheritance;
+package OOPS.inheritance;
 
 public class User {
     String name;
