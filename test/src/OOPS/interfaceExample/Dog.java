@@ -1,4 +1,4 @@
-package OOPS.inheritance.interfaceExample;
+package OOPS.interfaceExample;
 
 public class Dog implements Animal{
 
