@@ -1,4 +1,4 @@
-package OOPS.inheritance.interfaceExample;
+package OOPS.interfaceExample;
 
 public interface Animal {
     //This variable is public static final
